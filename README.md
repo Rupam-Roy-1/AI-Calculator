@@ -30,9 +30,18 @@ The system is structured for scalability and future AI integration, making it su
 ## 🏗️ Architecture
 
 AI-Calculator/
+├── CALC-BE/
+│   ├── main.py
+│   ├── calculator.py
+│   ├── utils.py
+│   └── requirements.txt
 │
-├── CALC-BE/ # Backend logic & processing
-├── CALC-FE/ # Frontend interface
+├── CALC-FE/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   └── assets/
+
 
 --
 
