@@ -27,22 +27,7 @@ The system is structured for scalability and future AI integration, making it su
 
 ---
 
-## 🏗️ Architecture
 
-AI-Calculator/
-├── CALC-BE/
-│   ├── main.py
-│   ├── calculator.py
-│   ├── utils.py
-│   └── requirements.txt
-│
-├── CALC-FE/
-│   ├── index.html
-│   ├── styles.css
-│   ├── script.js
-│   └── assets/
-
---
 
 ## The separation of concerns ensures:
 - Better maintainability  
