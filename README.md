@@ -29,3 +29,28 @@ The system is structured for scalability and future AI integration, making it su
 
 ## 🏗️ Architecture
 
+AI-Calculator/
+│
+├── CALC-BE/ # Backend logic & processing
+├── CALC-FE/ # Frontend interface
+
+--
+
+## The separation of concerns ensures:
+- Better maintainability  
+- Easier debugging  
+- Independent scaling of components  
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer       | Technology |
+|------------|------------|
+| Language    | Python |
+| Frontend    | (Specify framework if used) |
+| Backend     | Python-based logic |
+| Version Control | Git & GitHub |
+
+---
+
