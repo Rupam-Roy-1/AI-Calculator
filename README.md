@@ -42,7 +42,6 @@ AI-Calculator/
 │   ├── script.js
 │   └── assets/
 
-
 --
 
 ## The separation of concerns ensures:
